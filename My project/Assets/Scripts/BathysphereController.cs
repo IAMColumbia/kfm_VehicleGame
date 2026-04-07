@@ -41,12 +41,14 @@ public class BathysphereController : MonoBehaviour
         verticalInput = (keyboard.eKey.isPressed ? 1 : 0) - (keyboard.qKey.isPressed ? 1 : 0);
 
         lookInput = mouse.delta.ReadValue();
+
+        HandleRotation();
+
     }
 
     void FixedUpdate()
     {
         HandleMovement();
-        HandleRotation();
     }
 
     void HandleMovement()
