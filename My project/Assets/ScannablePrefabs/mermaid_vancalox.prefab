@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5162670264729154477
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.116287
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 52.210556
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -42.3228
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: m_Name
+      value: mermaid_vancalox
+      objectReference: {fileID: 0}
+    - target: {fileID: 5091337947546445964, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 04553b4e6c69a0740b1d94002afb3de7, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -5660767523897328495}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4934160766979024446}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1898383348012560373}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3411026587319095052}
+    - targetCorrespondingSourceObject: {fileID: -5921418667229094480, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4357925267880831507}
+  m_SourcePrefab: {fileID: 100100000, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+--- !u!1 &5432489664888573692 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+  m_PrefabInstance: {fileID: 5162670264729154477}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-5660767523897328495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5432489664888573692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39348c093dd3ad4f984beaba01bbc41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CreatureWander
+  moveSpeed: 3
+  turnSpeed: 2
+  waypointReachedDistance: 2
+  wanderRangeX: 20
+  wanderRangeY: 8
+  wanderRangeZ: 20
+  centerY: 15
+  minWaitTime: 1
+  maxWaitTime: 4
+--- !u!111 &4934160766979024446
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5432489664888573692}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 1827226128182048838, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+  m_Animations:
+  - {fileID: 1827226128182048838, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
+--- !u!114 &1898383348012560373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5432489664888573692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Scannable
+  displayName: 'Piscis Humano Durum '
+  description: Van Calox's Mermaid
+  journalImage: {fileID: 0}
+--- !u!65 &3411026587319095052
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5432489664888573692}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.928623, y: 1.8670123, z: 1.7073373}
+  m_Center: {x: 0.06324434, y: 0.84823066, z: 0.1303238}
+--- !u!1 &7671767997879840285 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5921418667229094480, guid: 094eb2e69f0c686438932b1579a4c75f, type: 3}
+  m_PrefabInstance: {fileID: 5162670264729154477}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &4357925267880831507
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671767997879840285}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 2
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
