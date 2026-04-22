@@ -35,7 +35,7 @@ public class CreatureWander : MonoBehaviour
         PickNewTarget();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (waiting) return;
 
@@ -43,10 +43,10 @@ public class CreatureWander : MonoBehaviour
         if (direction != Vector3.zero)
         {
             Quaternion targetRotation = Quaternion.LookRotation(direction);
-            transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, turnSpeed * Time.deltaTime);
+            transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, turnSpeed * Time.fixedDeltaTime);
         }
 
-        transform.position += transform.forward * moveSpeed * Time.deltaTime;
+        transform.position += transform.forward * moveSpeed * Time.fixedDeltaTime;
 
         if (Vector3.Distance(transform.position, targetPosition) <= waypointReachedDistance)
         {
