@@ -126,9 +126,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Lumos Hallucigenia
-  description: placeholder
-  journalImage: {fileID: 0}
+  displayName: Hallucigenia (Tripneustes Hallucigenia)
+  description: Good heavens! The creature is a pale blue worm of considerable length,
+    furnished along its dorsal ridge with paired spines of a most aggressively symmetrical
+    arrangement. It moves with a calm, unhurried purpose that is altogether more
+    unnerving than if it were to scuttle. The taxonomists who named this genus were,
+    I think, being rather honest about the experience of encountering one.
+  journalImage: {fileID: 21300000, guid: 144ff0253bf21d34cb46be022b944373, type: 3}
 --- !u!65 &5498748019081037860
 BoxCollider:
   m_ObjectHideFlags: 0

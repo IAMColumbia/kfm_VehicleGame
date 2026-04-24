@@ -158,9 +158,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Piscis Saltator
-  description: Water dancer
-  journalImage: {fileID: 0}
+  displayName: Water Dancer (Piscis Saltator)
+  description: The Water Dancer moves through the water with a spiralling, ribbon-like
+    grace that is genuinely rather affecting. Its luminous body curls and extends
+    like a living calligraphy stroke, trailing a lavender flourish behind it. It
+    appears utterly unconcerned with the observer, engaged as it is in some private
+    choreography of evident importance. Of all the creatures catalogued herein, this
+    is the one I feel I have intruded upon.
+  journalImage: {fileID: 21300000, guid: 92af53d52878411499cc5efbdb5f244d, type: 3}
 --- !u!65 &682864146722635975
 BoxCollider:
   m_ObjectHideFlags: 0

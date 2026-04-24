@@ -131,9 +131,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Nox Alga
-  description: Night Light
-  journalImage: {fileID: 0}
+  displayName: Night Light (Alga Nox)
+  description: "A charming plant, sending up its cluster of violet blooms like so
+    many lanterns at a garden f\xEAte. One is tempted to cup one's hands around them
+    for warmth, though this ocean affords none. The dark stem anchors it firmly to
+    the rock, as though the plant itself is aware that beauty of this particular
+    sort ought not to drift away unattended."
+  journalImage: {fileID: 21300000, guid: 06b3ef01553f7c944af1fcf5369878fc, type: 3}
 --- !u!65 &2144192957512502511
 BoxCollider:
   m_ObjectHideFlags: 0
