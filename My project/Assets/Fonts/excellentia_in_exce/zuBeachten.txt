@@ -1,0 +1,20 @@
+Die beiliegende Schriftart basiert auf der Handschrift von Borys Liechti im Jahre 2000.
+
+Einige Besonderheiten zur Beachtung:
+
+- Optimale Größe: 36 Punkt
+- Es sind bewusst keine Gänsefüßchen („x“ und “x”), sondern nur französische (= eckige) Anführungszeichen vorhanden. Tastaturcodes: Alt+174 und Alt+175, «x», bzw. »x«. 
+- Anstelle des unnützen Zollzeichens " (Pest und Verderben über jeden, der dieses Zeichen als Anführungszeichen missbraucht!) ist ein Smiley implementiert.
+- Keine Wörter in Majuskeln oder gar Kapitälchen in dieser Schriftart schreiben! Das klappt garantiert nicht...
+- Bei Anführungszeichen vor Großbuchstaben muss unter Umständen ein Leerzeichen eingefügt werden, da die Majuskeln häufig nach links «ausschwenken» und sich somit mit dem Anführungszeichen überschneiden können.
+- Der Zeilenabstand muss für ein authentisches und ausgewogeneres Schriftbild manuell reduziert werden. Dies konnte ich leider beim Erstellen der Datei nicht festlegen, weil das automatisch (und leider zu groß) berechnet wurde.
+- Es ist möglich, die Schrift noch mehr zu neigen, indem man sie einfach kursiv formatiert. Das ist dann aber natürlich nicht mehr authentisch, aber durchaus auch noch ästhetisch...
+
+Viel Spaß mit meiner Schrift, und stell keinen illegalen Unfug damit an! Ich würde eine solche Fälschung sowieso aus 100 Metern erkennen... ;-)
+
+Falls du mir einen Brief mit meiner Handschrift schreiben möchtest, hier meine Adresse:
+
+Borys Liechti
+Allmendstraße 2
+CH-3800 Interlaken
+Schweiz
