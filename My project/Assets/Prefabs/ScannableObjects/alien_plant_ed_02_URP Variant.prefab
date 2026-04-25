@@ -127,7 +127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Glow Egg (Alga Ovum)
+  displayName: Glow Egg
+  scientificName: Alga Ovum
   description: At first glance, one might mistake this for a misplaced ostrich egg.
     Albeit, one that has gotten rather dramatically above itself. It sits upon the
     sediment and glows with a deep, ruddy luminescence, ringed at its base like a

@@ -159,6 +159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
   displayName: UNKNOWN
+  scientificName: ???
   description: The scanning apparatus has returned this entry incomplete, and I find
     myself unable to supply what it lacks. The figure observed, tall, bipedal, present
     in the shadows for only a moment, did not remain long enough for any meaningful

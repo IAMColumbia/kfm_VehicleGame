@@ -159,7 +159,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Sea Pig (Callinectes Porcine)
+  displayName: Sea Pig
+  scientificName: Callinectes Porcine
   description: A broad, pale thing; veined like fine marble and possessed of three
     stout downward-pointing protrusions that serve, one supposes, as feet, though
     they give the impression of roots. It rests upon the seabed in the manner of

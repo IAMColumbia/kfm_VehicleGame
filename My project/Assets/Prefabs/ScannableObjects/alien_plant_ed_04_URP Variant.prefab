@@ -116,7 +116,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Blue Fire Algae (Alga Ignis)
+  displayName: Blue Fire Algae
+  scientificName: Alga Ignis
   description: A single upright column of cold cerulean fire, tapering to a blade's
     edge at its crown. It does not flicker, does not waver, and appears wholly indifferent
     to the currents about it, rather like a particularly smug candle. The surrounding

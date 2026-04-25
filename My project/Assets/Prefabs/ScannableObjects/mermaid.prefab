@@ -126,7 +126,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Dekarios Mermaid (Piscis Humano)
+  displayName: Dekarios Mermaid
+  scientificName: Piscis Humano
   description: A singular beast, largely piscine in its lower aspect, yet possessed
     of a bulbous, forward-gazing eye and a body patterned in gold and umber, like
     an illuminated manuscript penned by someone with an unsettled imagination. The

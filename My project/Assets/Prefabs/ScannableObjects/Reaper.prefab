@@ -158,7 +158,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Reaper (Piscis Interfector)
+  displayName: Reaper
+  scientificName: Piscis Interfector
   description: The Reaper is white as chalk and moves with the unhurried elegance
     of something that has never once, in its entire existence, needed to hurry. Its
     great coral-red appendages trail behind it like the sleeves of an opera cloak.

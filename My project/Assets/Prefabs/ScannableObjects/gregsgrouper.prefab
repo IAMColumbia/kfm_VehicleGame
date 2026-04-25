@@ -143,7 +143,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Gregory's Grouper (Piscis Harenae)
+  displayName: Gregory's Grouper
+  scientificName: Piscis Harenae
   description: A stout and rather self-important fish, mottled in grey and copper,
     adorned along its flanks with spots of bioluminescent teal that it wears with
     the confidence of a man who has just received a very fine waistcoat. The jaw

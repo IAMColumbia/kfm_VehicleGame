@@ -15,10 +15,12 @@ public class ScanManager : MonoBehaviour
     public GameObject scanPopup;
     public TMPro.TextMeshProUGUI popupNameText;
     public UnityEngine.UI.Image popupImage;
+
     [Header("Journal")]
     public GameObject journalPanel;
     public Image entryImage;
     public TMPro.TextMeshProUGUI entryNameText;
+    public TMPro.TextMeshProUGUI entryScientificNameText;
     public TMPro.TextMeshProUGUI entryDescriptionText;
     public Button prevButton;
     public Button nextButton;
@@ -30,7 +32,6 @@ public class ScanManager : MonoBehaviour
 
     private AudioSource audioSource;
 
-    // Internal
     private List<ScannableData> scannedEntries = new List<ScannableData>();
     private int currentPage = 0;
     public static bool journalOpen = false;
@@ -40,6 +41,7 @@ public class ScanManager : MonoBehaviour
     public class ScannableData
     {
         public string displayName;
+        public string scientificName;
         public string description;
         public Sprite image;
     }
@@ -74,12 +76,12 @@ public class ScanManager : MonoBehaviour
             {
                 ShowPopup(target.displayName, target.journalImage);
 
-                // Only add if not already scanned
                 if (!scannedEntries.Exists(e => e.displayName == target.displayName))
                 {
                     ScannableData data = new ScannableData
                     {
                         displayName = target.displayName,
+                        scientificName = target.scientificName,
                         description = target.description,
                         image = target.journalImage
                     };
@@ -142,6 +144,7 @@ public class ScanManager : MonoBehaviour
         ScannableData entry = scannedEntries[index];
 
         entryNameText.text = entry.displayName;
+        entryScientificNameText.text = entry.scientificName;
         entryDescriptionText.text = entry.description;
 
         if (entryImage != null)

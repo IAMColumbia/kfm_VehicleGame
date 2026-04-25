@@ -127,7 +127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Nikola Bulb (Alga Nox Lux)
+  displayName: Nikola Bulb
+  scientificName: Alga Nox Lux
   description: 'The Nikola Bulb presents a most arresting geometry: five hexagonal
     pads arranged in a flattened constellation upon the rock face, each pulsing with
     violet-white light in what can only be described as a self-congratulatory manner.

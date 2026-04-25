@@ -158,7 +158,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0db58e37e0a94f5449dfaf38b9309cc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scannable
-  displayName: Water Dancer (Piscis Saltator)
+  displayName: Water Dancer
+  scientificName: Piscis Saltator
   description: The Water Dancer moves through the water with a spiralling, ribbon-like
     grace that is genuinely rather affecting. Its luminous body curls and extends
     like a living calligraphy stroke, trailing a lavender flourish behind it. It
