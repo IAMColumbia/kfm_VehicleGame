@@ -26,6 +26,9 @@ public class BathysphereCamera : MonoBehaviour
     void LateUpdate()
     {
         if (target == null) return;
+        if (ScanManager.journalOpen) return; // freeze camera when journal open
+
+        if (target == null) return;
 
         // At the top of LateUpdate, before the yaw/pitch lines:
         var mouse = Mouse.current;
