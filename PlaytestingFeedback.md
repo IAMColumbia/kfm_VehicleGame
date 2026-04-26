@@ -6,12 +6,14 @@
 
 ## 04/01/2026
 ### **Aaron**
+- likes the environment & atmosphere
 - slow down music (by around half); bring pitch lower
 - "Unknown" creature should blink out once you click it (after brainstorming, i'm going to have the Unknown creature follow the player around & blink away whenever the spotlight hits it.)
-- include prompt with instructions to open journal
 
 ### **Aiden**
 - add a refraction effect to the underwater environment
+- include prompt with instructions to open journal
+- put mission objectives in the journal; move flora & fauna descriptions to a separate codex (once I expand this into a bigger investigation-style game)
 
 ## 04/16/2026
 ### **Kate**
