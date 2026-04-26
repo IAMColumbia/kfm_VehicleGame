@@ -10,7 +10,9 @@ During class, David A. had several suggestions that I'll be using:
 - some way to show the player what's clickable
 
 ## 04/01/2026
-After building my initial environment & adding creatures, I had my friends Aaron & Aiden playtest what I have so far. They both agreed that I should add a refraction effect to the underwater environment. Aaron 
+After building my initial environment & adding creatures, I had my friends Aaron & Aiden playtest what I have so far. They both agreed that I should add a refraction effect to the underwater environment. Aiden says I should add text that tells the player to "click J to open your journal" on the scan pop-up.
+
+Aaron suggested slowing down music (by around half) to avoid repetition & bring the pitch lower. They also said the "Unknown" creature should blink out once you click it. After some brainstorming together, I decided I want to have the Unknown creature follow behind the player & blink away whenever the player turns around & the spotlight hits it. (using raycast)
 
 ## 04/10/2026
 I want to expand on the game eventually to make it a point-and-click adventure game, something like "you're on a mission to find out what happened to the last exploration crew".
