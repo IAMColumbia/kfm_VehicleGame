@@ -21,4 +21,4 @@ I want to expand on the game eventually to make it a point-and-click adventure g
 My friend Kate playtested remotely. They mentioned that the font was difficult to read. They also suggested adding book SFX to the journal and SFX like a quill scratching on parchment for the pop-up notification.
 
 ## 04/19/2026
-My friend David M. playtested & suggested turning off camera movement while the journal's open. He also liked my idea for turning this into an investigation-focused adventure game. He recommended looking at the demo for [Locator](https://store.steampowered.com/app/2459030/Locator/) for inspiration.
+My friend David M. playtested & suggested turning off camera movement while the journal's open. He also liked my idea for turning this into an investigation-focused adventure game. He recommended looking at [the demo for Locator](https://store.steampowered.com/app/2459030/Locator/) for inspiration.
