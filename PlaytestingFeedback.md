@@ -22,5 +22,5 @@
 
 ## 04/19/2026
 ### **David M.**
-He also liked my idea for turning this into an investigation-focused adventure game. He recommended looking at the demo for Locator for inspiration: https://store.steampowered.com/app/2459030/Locator/
+- liked the idea of turning this into an investigation-focused adventure game; recommended looking at [the demo for Locator](https://store.steampowered.com/app/2459030/Locator/) for inspiration
 - suggested turning off camera movement while the journal's open
