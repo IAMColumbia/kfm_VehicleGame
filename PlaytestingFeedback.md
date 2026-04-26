@@ -6,6 +6,10 @@
 
 ## 04/01/2026
 ### **Aaron**
+- slow down music (by around half); bring pitch lower
+- "Unknown" creature should blink out once you click it (after brainstorming, i'm going to have the Unknown creature follow the player around & blink away whenever the spotlight hits it.)
+- include prompt with instructions to open journal
+
 ### **Aiden**
 - add a refraction effect to the underwater environment
 
